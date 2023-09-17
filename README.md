@@ -40,9 +40,9 @@ Sebelum memulai proyek ini, pastikan Anda telah memenuhi beberapa persyaratan be
 
 ## Author
 
--   Nama: [M.Fathir Arya Nafis]
--   Email: [fathirarya2002@gmail.com]
--   GitHub: [https://github.com/fathirarya]
+-   Nama: M.Fathir Arya Nafis
+-   [Email](fathirarya2002@gmail.com)
+-   [GitHub](https://github.com/fathirarya)
 
 ## Kontribusi
 
